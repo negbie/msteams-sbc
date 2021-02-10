@@ -1,2 +1,2 @@
 # msteams-sbc
-![Setup](https://user-images.githubusercontent.com/20154956/107521362-c053cc00-6bb2-11eb-9f48-bcbf9199a428.jpg)
+![Setup](https://user-images.githubusercontent.com/20154956/107523749-5dafff80-6bb5-11eb-879a-ca414b4ecd9f.jpg)
