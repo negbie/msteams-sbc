@@ -8,7 +8,7 @@
 \ Kein Zeilenumbruch am Dateiende.
 +[% END -%]
 +
-+10:22:sip\:sip.pstnhub.microsoft.com;transport=tls:3:0:socket=tls\:SBC-IP-ADDR\:5061;ping_from=sip\:SBC-DNS-DOMAIN:msteams1
-+11:22:sip\:sip2.pstnhub.microsoft.com;transport=tls:2:0:socket=tls\:SBC-IP-ADDR\:5061;ping_from=sip\:SBC-DNS-DOMAIN:msteams2
-+12:22:sip\:sip3.pstnhub.microsoft.com;transport=tls:1:0:socket=tls\:SBC-IP-ADDR\:5061;ping_from=sip\:SBC-DNS-DOMAIN:msteams3
++10:22:sip\:sip.pstnhub.microsoft.com;transport=tls:3:0:socket=tls\:SBC-SOCKET-IP-ADDR\:5061;ping_from=sip\:SBC-DNS-DOMAIN:msteams1
++11:22:sip\:sip2.pstnhub.microsoft.com;transport=tls:2:0:socket=tls\:SBC-SOCKET-IP-ADDR\:5061;ping_from=sip\:SBC-DNS-DOMAIN:msteams2
++12:22:sip\:sip3.pstnhub.microsoft.com;transport=tls:1:0:socket=tls\:SBC-SOCKET-IP-ADDR\:5061;ping_from=sip\:SBC-DNS-DOMAIN:msteams3
 +
