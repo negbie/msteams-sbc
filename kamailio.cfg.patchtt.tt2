@@ -40,7 +40,7 @@
 -			record_route();
 +                        if($rd=~"^52\.114") {
 +                                xlog("L_NOTICE", "Add Record-Route for outgoing MSTeams call - [% logreq %]\n");
-+			                             record_route_preset("SBC-DNS-DOMAIN:5061;transport=tls;r2=on;ngcplb=yes;socket=$var(outbound_sock)", "127.0.0.1:5060;r2=on;ngcplb=yes");
++                                record_route_preset("SBC-DNS-DOMAIN:5061;transport=tls;r2=on;ngcplb=yes;socket=$var(outbound_sock)", "127.0.0.1:5060;r2=on;ngcplb=yes");
 +                        }
 +                        else {
 +                                # add record-route
