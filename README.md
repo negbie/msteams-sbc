@@ -5,4 +5,4 @@
 *msteams-sbc* is a collection of configuration, documentation and patch files for [Sipwise C5 CE](https://www.sipwise.com/spce/) a SIP-based Open Source Class5 VoIP soft-switch to build a [direct routing SBC](https://docs.microsoft.com/en-us/microsoftteams/direct-routing-connect-the-sbc) for Microsoft Teams.
 
 # Installation
-This guide is based on the latest Long Term Supported Release - mr8.5. Sipwise provides multiple ways to [quick install](https://www.sipwise.com/spce/quickinstall/) the system. Use the one you like and follow the [instructions](https://www.sipwise.com/doc/mr8.5.3/spce/ar01s03.html) of your choice.
+This guide is based on the latest Long Term Supported Release - mr8.5. Sipwise provides multiple ways to [quick install](https://www.sipwise.com/spce/quickinstall/) the system. Use the one you like and follow the [instructions](https://www.sipwise.com/doc/mr8.5.3/spce/ar01s03.html) of your choice. Sipwise recommends the install CD but a Virtualbox or VMware image should be fine too.
